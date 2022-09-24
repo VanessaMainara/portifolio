@@ -8,11 +8,11 @@ export default function Skills() {
     const restDescription = 'de experiência com essa tecnologia.'
     const listColors = ['#83cd29', '#FF0000', ' #00BFFF', '#e62c2d', '#61dafb', '#FFFF00', ' #e54d26']; 
     const titles = ['Node.js', 'Java', 'React', 'HTML5', 'CSS3', 'JavaScript', 'Git'];
-    const progress = ['50', '10', '50', '110', '110', '50', '110']
+    const progress = ['50', '20', '50', '110', '110', '50', '110']
     const descriptions = 
     [
     `6 meses ${restDescription}`,
-    `1 meses ${restDescription}`,
+    `2 meses ${restDescription}`,
     `6 meses ${restDescription}`,
     `1 ano ${restDescription}`,
     `1 ano ${restDescription}`,
