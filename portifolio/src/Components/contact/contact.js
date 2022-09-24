@@ -19,7 +19,7 @@ export default function Contact() {
                         </li>
                     </ul>
                 </div>
-                <form action="https://formsubmit.co/el/jufaki" method="POST">
+                <form action="https://formsubmit.co/mainaravanessa@gmail.com" method="POST">
                     <input type="hidden" name="_next" value="https://vanessamainara-portifolio.vercel.app/" />
                     <input type="hidden" name="_template" value="box" />
                     <input type="hidden" name="_autoresponse" value="Recebi sua mensagem, muito obrigado por entrar em contato! Responderei o mais rápido possível..." />            
