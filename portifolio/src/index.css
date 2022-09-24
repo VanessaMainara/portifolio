@@ -1,0 +1,59 @@
+:root {
+  --color1: #ff008c;
+  --color2: #03f0fc;
+  --color3: #1804fb;
+  --bgColor: #000;
+  --bgColor-light: #131111;
+  --textColor: #fff;
+  --hoverBackground: rgba(255, 255, 255, 0.1);
+  --skillColor: gray;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  font-family: 'Montserrat', 'Segoe UI', 'Roboto';
+}
+
+html {
+  scroll-padding-top: 70px;
+}
+
+body {
+  font-family: 'Montserrat', 'Segoe UI', 'Roboto';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bgColor);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(207, 200, 200);
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(122, 119, 119);
+}
+
+.page-section {
+  width: 100%;
+  background-color: var(--bgColor);
+  padding: 2rem 20px;
+}
+
+.page-light {
+  width: 100%;
+  background-color: var(--bgColor-light);
+  padding: 2rem 20px;
+}
