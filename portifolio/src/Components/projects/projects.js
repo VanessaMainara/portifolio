@@ -35,7 +35,6 @@ export default function Projects() {
                             <p>Para acessar todos meus projetos acesse meu github.</p>
                         </a>
                     </div>
-                    
                 </Slider>
             </div>
         </section>
