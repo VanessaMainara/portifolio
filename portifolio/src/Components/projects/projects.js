@@ -35,12 +35,7 @@ export default function Projects() {
                             <p>Para acessar todos meus projetos acesse meu github.</p>
                         </a>
                     </div>
-                    <div class="item-projects img-4">
-                        <a href="https://projetowhatslab.vercel.app/" target="_blank" rel="noopener noreferrer">
-                            <h3>WhatsLab</h3>
-                            <p>Projeto desenvolvido durante o curso Web Full Stack Labenu.</p>
-                        </a>
-                    </div>
+                    
                 </Slider>
             </div>
         </section>
